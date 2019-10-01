@@ -1,2 +1,3 @@
-# stage-enhancer
-An AR stage enhancer that enhaces stages that need enhancement
+# onStage
+
+Use AR to enhance your performance on stage!
